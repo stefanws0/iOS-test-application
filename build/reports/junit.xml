@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='GameUITests.xctest' tests='1' failures='0'>
+  <testsuite name='GameUITests.GameUITests' tests='1' failures='0'>
+    <testcase classname='GameUITests.GameUITests' name='testExample' time='25.724'/>
+  </testsuite>
+</testsuites>
