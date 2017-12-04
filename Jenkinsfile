@@ -4,7 +4,6 @@ node {
     stage ('Clone') {
         echo 'now cloning'
         checkout scm
-        sh "chmod +x xcodebuild"
     }
     stage ('Clean') {
         echo 'now cleaning'
