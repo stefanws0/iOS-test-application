@@ -11,7 +11,7 @@ node {
     }
     stage ('Build') {
         echo 'now building'
-        sh "xcodebuild -project Game.xcodeproj -scheme Game build CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO"
+        sh "xcodebuild -project Game.xcodeproj -scheme Game build"
     }
     stage ('Test'){
         echo 'now testing'
