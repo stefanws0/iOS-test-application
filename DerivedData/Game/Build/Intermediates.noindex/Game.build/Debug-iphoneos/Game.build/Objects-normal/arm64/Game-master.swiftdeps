@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
-options: "b4b08dc18c8f01072e1e320dd96e76ce"
-build_time: [1514370955, 42933000]
-inputs:
-  "/Users/stefan/iOS-test-application/Game/GameScene.swift": [1512051768, 0]
-  "/Users/stefan/iOS-test-application/Game/GameViewController.swift": [1512051768, 0]
-  "/Users/stefan/iOS-test-application/Game/AppDelegate.swift": [1512051766, 0]
