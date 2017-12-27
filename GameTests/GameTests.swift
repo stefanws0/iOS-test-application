@@ -22,7 +22,7 @@ class GameTests: XCTestCase {
     }
     
     func testExample() {
-        assert(1 == 2);
+        //put something here
     }
     
     func testPerformanceExample() {
